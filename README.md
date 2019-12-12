@@ -25,7 +25,7 @@ All Markdown applications support these elements.
 
 | Element	| Markdown Syntax | 
 | ----------- | ----------- |
-| Heading | # H1 <br>## H2<br>### H3 |
+| [Heading][1] | # H1 <br>## H2<br>### H3 |
 | Bold | \*\*bold text\*\* |
 | Italic | \*italicized text\* |
 | Blockquote | > blockquote |
@@ -54,3 +54,5 @@ Not all Markdown applications support these elements.
 | Definition List | term <br>: definition |
 | Strikethrough | \~~The world is flat.~~ |
 | Task List | - [x] Write the press release <br>- [ ] Update the website <br>- [ ] Contact the media |
+
+[1] : https://github.com/skqksh/markdown-en-to-ko/blob/master/BasicSyntax.md#headings
