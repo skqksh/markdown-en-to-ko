@@ -70,7 +70,7 @@ You should not indent paragraphs with spaces or tabs.
 
 To create a line break (\<br>), end a line with two or more spaces, and then type return.
 
-줄 바꿈 (\<br>)을 만들려면 두 개 이상의 공백으로 줄을 끝내고 return을 입력하십시오.
+줄 바꿈 (\<br>)을 만들려면 두 개 이상의 공백으로 줄을 끝내고 return을 입력하십시오.(번역자는 이거 잘 안되었음...;;)
 
 | Markdown                                             | HTML                                                               | Rendered Output                                          |
 | ---------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------- |
@@ -80,7 +80,7 @@ To create a line break (\<br>), end a line with two or more spaces, and then typ
 
 You can add emphasis by making text bold or italic.
 
-텍스트를 굵게 또는 기울임 꼴로 표시하여 강조를 추가 할 수 있습니다.
+텍스트를 굵게 또는 이탤릭체로 강조할 수 있습니다.
 
 ### Bold
 
