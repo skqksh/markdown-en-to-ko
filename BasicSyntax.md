@@ -1,3 +1,5 @@
+### [원문 : 마크다운 가이드 홈페이지](https://www.markdownguide.org/basic-syntax/).
+
 # Basic Syntax
 
 **The Markdown elements outlined in John Gruber's design document.**
@@ -915,7 +917,7 @@ The rendered output looks like this:
 
 You can use a backslash to escape the following characters.
 
-백슬래쉬를 이용하여 다음 문자들은 이스케이프 가능 합니다.
+다음 문자들은 백슬래쉬를 이용하여 이스케이프 가능 합니다.
 
 | Character                                          | Name                                    |
 | -------------------------------------------------- | --------------------------------------- |
