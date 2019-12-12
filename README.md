@@ -43,8 +43,8 @@ Not all Markdown applications support these elements.
 
 | Element	| Markdown Syntax |
 | ----------- | ----------- |
-| Table | | Syntax | Description |<br>| ----------- | ----------- |<br>| Header | Title |<br>| Paragraph | Text | |
-| Fenced Code Block | ```<br>{<br>  "firstName": "John",<br>  "lastName": "Smith",<br>  "age": 25<br>}<br>``` |
+| Table | \| Syntax \| Description \|<br>\| ----------- \| ----------- \|<br>\| Header \| Title \|<br>\| Paragraph \| Text \| |
+| Fenced Code Block | \```<br>{<br>  "firstName": "John",<br>  "lastName": "Smith",<br>  "age": 25<br>}<br>\``` |
 | Footnote | Here's a sentence with a footnote. [^1]<br><br><br>[^1]: This is the footnote. |
 | Heading ID | ### My Great Heading \{#custom-id} |
 | Definition List | term <br>: definition |
