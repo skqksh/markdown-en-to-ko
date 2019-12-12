@@ -11,7 +11,7 @@ Markdown cheat sheet 는 모든 마크 다운 구문 요소에 대한 간략한 
 
 It can’t cover every edge case, so if you need more information about any of these elements, refer to our reference guides for basic syntax and extended syntax.
 
-모든 경우의 수를 다룰 수 없으므로, 더 많은 정보가 필요한 경우, 기본구문(basic syntax) 와 확장구문(extended syntax) 를 참조하십시오.
+모든 경우의 수를 다룰 수 없으므로, 더 많은 정보가 필요한 경우, 기본구문(basic syntax)과 확장구문(extended syntax)을 참조하십시오.
 
 ## Basic Syntax
 These are the elements outlined in John Gruber’s original design document.
