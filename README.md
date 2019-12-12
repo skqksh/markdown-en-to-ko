@@ -2,6 +2,7 @@
 
 # Markdown Cheat Sheet
 **A quick reference to the Markdown syntax.**
+
 **마크다운 구문 빠른 참고**
 
 ## Overview
@@ -37,8 +38,11 @@ All Markdown applications support these elements.
 
 ## Extended Syntax
 These elements extend the basic syntax by adding additional features.
+
 이 요소들은 추가 기능을 추가하여 기본 구문을 확장합니다.
+
 Not all Markdown applications support these elements.
+
 모든 Markdown 어플리케이션이 이 요소들을 지원하는것은 아닙니다. 
 
 | Element	| Markdown Syntax |
