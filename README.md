@@ -32,8 +32,8 @@ All Markdown applications support these elements.
 | Unordered List | - First item <br>- Second item <br>- Third item |
 | Code | `code` |
 | Horizontal Rule | --- |
-| Link | [title](https://www.example.com) |
-| Image | ![alt text](image.jpg) |
+| Link | \[title]\(https://www.example.com) |
+| Image | \![alt text]\(image.jpg) |
 
 ## Extended Syntax
 These elements extend the basic syntax by adding additional features.
@@ -46,8 +46,7 @@ Not all Markdown applications support these elements.
 | Table | | Syntax | Description |<br>| ----------- | ----------- |<br>| Header | Title |<br>| Paragraph | Text | |
 | Fenced Code Block | ```<br>{<br>  "firstName": "John",<br>  "lastName": "Smith",<br>  "age": 25<br>}<br>``` |
 | Footnote | Here's a sentence with a footnote. [^1]<br><br><br>[^1]: This is the footnote. |
-| 
-Heading ID | ### My Great Heading {#custom-id} |
+| Heading ID | ### My Great Heading \{#custom-id} |
 | Definition List | term <br>: definition |
-| Strikethrough | ~~The world is flat.~~ |
+| Strikethrough | \~~The world is flat.~~ |
 | Task List | - [x] Write the press release <br>- [ ] Update the website <br>- [ ] Contact the media |
