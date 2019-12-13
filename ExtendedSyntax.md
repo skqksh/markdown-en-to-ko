@@ -201,9 +201,9 @@ The rendered output looks like this:
 }
 ```
 
-> Tip: Need to display backticks inside a code block? See this section to learn how to escape them.
+> Tip: Need to display backticks inside a code block? See this [section](./BasicSyntax.md#escaping-backticks) to learn how to escape them.
 
-> 팁 : 코드 블록 안에 역따옴표를 표시해야합니까? 역따옴표 이스케이핑 하기
+> 팁 : 코드 블록 안에 역따옴표를 표시해야합니까? 역따옴표 [이스케이핑](./BasicSyntax.md#escaping-backticks) 하기
 
 ## Syntax Highlighting
 
