@@ -53,4 +53,4 @@ Not all Markdown applications support these elements.
 | [Heading ID](./ExtendedSyntax.md#heading-ids) | ### My Great Heading \{#custom-id} |
 | [Definition List](./ExtendedSyntax.md#definition-lists) | term <br>: definition |
 | [Strikethrough](./ExtendedSyntax.md#strikethrough) | \~~The world is flat.~~ |
-| Task List | - [x] Write the press release <br>- [ ] Update the website <br>- [ ] Contact the media |
+| [Task List](./ExtendedSyntax.md#task-lists) | - [x] Write the press release <br>- [ ] Update the website <br>- [ ] Contact the media |
