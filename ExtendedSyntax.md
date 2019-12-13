@@ -109,13 +109,11 @@ Cell widths can vary, as shown below. The rendered output will look the same.
 | Paragraph | Text |
 ```
 
-```
-Tip: Creating tables with hyphens and pipes can be tedious. To speed up the process, try using the [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables). Build a table using the graphical interface, and then copy the generated Markdown-formatted text into your file.
-```
+> Tip: Creating tables with hyphens and pipes can be tedious. To speed up the process, try using the [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables). Build a table using the graphical interface, and then copy the generated Markdown-formatted text into your file.
 
-```
-팁 : 하이픈과 파이프가있는 테이블을 만드는 것은 번거로울 수 있습니다. 프로세스 속도를 높이려면 [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)를 사용해보십시오. 그래픽 인터페이스를 사용하여 테이블을 작성한 다음 생성 된 마크 다운 형식 텍스트를 파일에 복사하십시오.
-```
+
+> 팁 : 하이픈과 파이프가있는 테이블을 만드는 것은 번거로울 수 있습니다. 프로세스 속도를 높이려면 [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)를 사용해보십시오. 그래픽 인터페이스를 사용하여 테이블을 작성한 다음 생성 된 마크 다운 형식 텍스트를 파일에 복사하십시오.
+
 
 ## Alignment
 
@@ -203,13 +201,9 @@ The rendered output looks like this:
 }
 ```
 
-```
-Tip: Need to display backticks inside a code block? See this section to learn how to escape them.
-```
+> Tip: Need to display backticks inside a code block? See this section to learn how to escape them.
 
-```
-팁 : 코드 블록 안에 역따옴표를 표시해야합니까? 역따옴표 이스케이핑 하기
-```
+> 팁 : 코드 블록 안에 역따옴표를 표시해야합니까? 역따옴표 이스케이핑 하기
 
 ## Syntax Highlighting
 
@@ -248,7 +242,7 @@ The rendered output looks like this:
 }
 ````
 
-## Footnotes
+## Footnotes (깃허브는 지원하지 않습니다.)
 
 Footnotes allow you to add notes and references without cluttering the body of the document.
 
@@ -272,7 +266,7 @@ Identifiers can be numbers or words, but they can’t contain spaces or tabs.
 
 Identifiers only correlate the footnote reference with the footnote itself — in the output, footnotes are numbered sequentially.
 
-식별자는 각주 참조를 각주 자체와 만 관련시킵니다. 출력에서 ​​각주는 번호가 순차적으로 매겨집니다.
+식별자는 각주 참조를 각주 자체와 만 관련시킵니다. 출력에서 각주는 번호가 순차적으로 매겨집니다.
 
 Add the footnote using another caret and number inside brackets with a colon and text ([^1]: My footnote.).
 
@@ -303,22 +297,22 @@ The rendered output looks like this:
 
 렌더링 결과 는 다음과 같습니다.
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+Here's a simple footnote,<sup>[1]</sup> and here's a longer one.↩
 
-[^1]: This is the first footnote.
-[^bignote]: Here's one with multiple paragraphs and code.
+1. This is the first footnote.↩
+2. Here's one with multiple paragraphs and code.
 
-  Indent paragraphs to include them in the footnote.
+      Indent paragraphs to include them in the footnote.
 
-  `{ my code }`
+      `{ my code }`
 
-  Add as many paragraphs as you like.
+      Add as many paragraphs as you like.↩
 
 ## Heading IDs
 
-Many Markdown processors support custom IDs for headings — some Markdown processors automatically add them.
+Many Markdown processors support custom IDs for [headings](./BasicSyntax.md#headings) — some Markdown processors automatically add them.
 
-많은 Markdown 프로세서는 제목에 대한 사용자 정의 ID를 지원합니다. 일부 Markdown 프로세서는 자동으로 추가합니다
+많은 Markdown 프로세서는 [제목](./BasicSyntax.md#headings)에 대한 사용자 정의 ID를 지원합니다. 일부 Markdown 프로세서는 자동으로 추가합니다
 
 Adding custom IDs allows you to link directly to headings and modify them with CSS.
 
