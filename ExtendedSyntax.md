@@ -242,7 +242,8 @@ The rendered output looks like this:
 }
 ````
 
-## Footnotes (깃허브는 지원하지 않습니다.)
+## Footnotes
+**(깃허브는 지원하지 않습니다.)**
 
 Footnotes allow you to add notes and references without cluttering the body of the document.
 
