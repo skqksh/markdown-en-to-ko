@@ -47,10 +47,10 @@ Not all Markdown applications support these elements.
 
 | Element	| Markdown Syntax |
 | ----------- | ----------- |
-| Table | \| Syntax \| Description \|<br>\| ----------- \| ----------- \|<br>\| Header \| Title \|<br>\| Paragraph \| Text \| |
-| Fenced Code Block | \```<br>{<br>  "firstName": "John",<br>  "lastName": "Smith",<br>  "age": 25<br>}<br>\``` |
-| Footnote | Here's a sentence with a footnote. [^1]<br><br><br>[^1]: This is the footnote. |
-| Heading ID | ### My Great Heading \{#custom-id} |
-| Definition List | term <br>: definition |
-| Strikethrough | \~~The world is flat.~~ |
+| [Table](./ExtendedSyntax.md#tables) | \| Syntax \| Description \|<br>\| ----------- \| ----------- \|<br>\| Header \| Title \|<br>\| Paragraph \| Text \| |
+| [Fenced Code Block](./ExtendedSyntax.md#fenced-code-blocks) | \```<br>{<br>  "firstName": "John",<br>  "lastName": "Smith",<br>  "age": 25<br>}<br>\``` |
+| [Footnote](./ExtendedSyntax.md#footnotes) | Here's a sentence with a footnote. [^1]<br><br><br>[^1]: This is the footnote. |
+| [Heading ID](./ExtendedSyntax.md#heading-ids) | ### My Great Heading \{#custom-id} |
+| [Definition List](./ExtendedSyntax.md#definition-lists) | term <br>: definition |
+| [Strikethrough](./ExtendedSyntax.md#strikethrough) | \~~The world is flat.~~ |
 | Task List | - [x] Write the press release <br>- [ ] Update the website <br>- [ ] Contact the media |
